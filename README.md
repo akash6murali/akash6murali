@@ -9,3 +9,9 @@ Currently on a magical journey, pursuing my Masters in Data Science at Northeast
     <img align="center" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake game" />
   </a>
 </p>
+
+<h2 align="center">🎓 Education</h2>
+
+- Master of Science in Data Science, Northeastern University, USA
+- Bachelor of Technology in Electronics and Communication Engineering, REVA University, India
+
